@@ -1,4 +1,4 @@
-# Assignment 1 - Visualitation Tools
+# Assignment W2 - Visualitation Tools
 
 This project is designed to explore and practice various data visualization tools by using the Canada by Citizenship dataset. The primary goal is to generate informative and meaningful plots to better understand the trends and insights within the data.
 
